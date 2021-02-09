@@ -6,7 +6,7 @@ jokeBtn.addEventListener('click',generateJokes)
 generateJokes()
 
 async function generateJokes(){
-  const res = await fetch('https://v2.jokeapi.dev/joke/Programming?blacklistFlags=nsfw,religious,political,racist,sexist,explicit')
+  const res = await fetch('https://v2.jokeapi.dev/joke/Any?blacklistFlags=nsfw,religious,political,racist,sexist,explicit')
   const data = await res.json();
   // const resDev = await fetch('https://v2.jokeapi.dev/joke/Programming?blacklistFlags=nsfw,religious,political,racist,sexist,explicit')
   // const dataDev = await resDev.json();
