@@ -1,1 +1,1 @@
-This is a project of Joke generator learning Async & Await. It is thanks to one of my greatest inspirations, <a href="http://https://www.twitter.com/DThompsonDev​" target="_blank" rel="noopener noreferrer">DThompsonDev</a>.
+This is a project of Joke generator learning Async & Await. It is thanks to one of my greatest inspirations, <a href="http://https://www.twitter.com/DThompsonDev​" target="_blank" rel="noopener noreferrer">DThompsonDev</a>. All my gratitude to you Danny!!
